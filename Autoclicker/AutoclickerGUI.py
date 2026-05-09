@@ -1,6 +1,5 @@
-# AutoclickerGUI.pyw
+# AutoclickerGUI.py
 # Windows 11 GUI autoclicker
-# Double-click this file to run.
 #
 # Features:
 # - GUI only
