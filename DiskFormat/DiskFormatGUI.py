@@ -1,6 +1,6 @@
-# DiskFormatGUI.pyw
+# DiskFormatGUI.py
 # Windows 11 GUI disk formatter
-# Double-click this file to run as administrator.
+# Run as administrator.
 #
 # Features:
 # - GUI only
@@ -10,7 +10,6 @@
 # - GPT / MBR partition style selection
 # - Editable volume label
 # - Typed confirmation before destructive formatting
-# - Uses PowerShell Storage cmdlets under the hood
 
 import ctypes
 import json
